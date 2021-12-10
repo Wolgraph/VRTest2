@@ -102,6 +102,10 @@
 				"Win32",
 				"Win64"
 			]
+		},
+		{
+			"Name": "MultiUserClient",
+			"Enabled": true
 		}
 	]
 }
